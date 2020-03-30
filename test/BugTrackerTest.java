@@ -1,4 +1,3 @@
-package test;
 import com.company.model.Employee;
 import com.company.model.Product;
 import org.junit.*;
