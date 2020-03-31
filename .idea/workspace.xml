@@ -1,138 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="725981b4-63d4-40a0-8989-c4f8fef064db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bugtracker.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bugtracker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_bugtracker.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/BugTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BugTrackerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="420159d0-6954-4e6f-a442-9b431814cd0b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1ZnNXqcWsuTRQ7qusalWHg4Jb0s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1ZuFI9F9xrhLcolPOIP7AnBRkpy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="bugtracker" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Connector/mysql-connector.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\update\bugtracker\bugtracker" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\nou\bugtracker\src\test\java" />
+      <recent name="D:\Projects\nou\bugtracker\src\main\java\com\company" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bugtracker.Main" />
-      <module name="bugtracker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bugtracker.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="725981b4-63d4-40a0-8989-c4f8fef064db" name="Default Changelist" comment="" />
-      <created>1585474232090</created>
+      <changelist id="420159d0-6954-4e6f-a442-9b431814cd0b" name="Default Changelist" comment="" />
+      <created>1585680989993</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585474232090</updated>
-      <workItem from="1585474233374" duration="2607000" />
-      <workItem from="1585478034471" duration="4895000" />
-      <workItem from="1585585416274" duration="966000" />
+      <updated>1585680989993</updated>
+      <workItem from="1585680992990" duration="310000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1585477965515">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585477965515" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585477978063">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585477978063" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585477978062">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585477978062" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585477978062">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585477978062" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585477978063">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585477978063" />
-    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1585477976702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1585477976701" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1585506598150">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585506598150" />
-    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1585488391523">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585488391523" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585585468641">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585585468641" />
-    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585479306729">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1585479306729" />
   </component>
 </project>

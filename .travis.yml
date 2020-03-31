@@ -1,2 +1,5 @@
+dist: xenial
 language: java
-install: ant deps
+jdk:
+  - openjdk8
+  - openjdk11
