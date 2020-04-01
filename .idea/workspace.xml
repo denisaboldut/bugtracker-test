@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179ae802-385b-48f9-970e-57878ef1a606" name="Default Changelist" comment="" />
+    <list default="true" id="179ae802-385b-48f9-970e-57878ef1a606" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BugTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BugTrackerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585732527636</updated>
       <workItem from="1585732531752" duration="2008000" />
+      <workItem from="1585738473939" duration="370000" />
     </task>
     <servers />
   </component>

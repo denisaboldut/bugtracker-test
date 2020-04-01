@@ -3,3 +3,10 @@ language: java
 jdk:
   - openjdk8
   - openjdk11
+
+notifications:
+  email: denisaboldut@gmail.com
+services:
+  - mysql
+before_install:
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS mydb;'
