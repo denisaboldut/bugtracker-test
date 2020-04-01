@@ -21,7 +21,7 @@ public class BugTrackerTest {
         Product product =  new Product(5,"mobile","10-11-2019","games app");
         assertEquals(product.getData_lansarii(),"10-11-2019");
         assertEquals(product.getDescriere(),"games app");
-        assertEquals(product.updateProduct("mobile","10-11-2019","mobile app",product),true);
+       
     }
 
 }
